@@ -32,4 +32,3 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 ## Resources
 * [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html)
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
-
